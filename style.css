@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+#main {
+  background-color: #d1d1d1;
+  max-width: 550px;
+  margin: 0px auto ;
+  padding: 10px 20px;
+}
+
+/*This class is for centred pictures*/
+.picturediv {
+  display: flex;
+  justify-content: center;
+}
+
+/*This class is for centred header text*/
+.header {
+  text-align: center;
+}
